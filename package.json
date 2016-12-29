@@ -1,0 +1,19 @@
+{
+  "name": "AutoPlac_Modulo_Prensa",
+  "version": "0.0.1",
+  "description": "Módulo responsável pela gerencia e controle da confeção de placas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/iscobar/SigPlac-Prensa",
+  "keywords": [
+    "AutoPlac",
+    "SigPlac"
+  ],
+  "author": "Pablo Holanda",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.13"
+  }
+}
